@@ -1,5 +1,5 @@
 -- ============================================================
--- Are you going to keep going? timer
+-- Are you going to keep going? timer 
 -- ============================================================
 --
 -- A small Hammerspoon utility that periodically asks me to
